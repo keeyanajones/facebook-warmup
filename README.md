@@ -1,2 +1,8 @@
 # facebook-warmup
 facebook warmup
+IN DEVELOPMENT
+VERSION 1.0.1
+TYPE : widgets
+CREATED : Apr 15, 2019
+STATUS : LOCAL TEST
+GITHUB PROJECT : [ WIDGETS ]
